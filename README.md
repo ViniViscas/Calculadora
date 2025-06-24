@@ -40,8 +40,3 @@ Para testar essa calculadora, siga os seguintes passos(executando pelo Git):
 
 
 
-
-
-
-
-
